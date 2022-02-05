@@ -1,4 +1,4 @@
- <h1 align=center>Face-Mask-Detection</h1>
+ <h1 align=center>Face Mask Detection</h1>
 
 ## **MEMBERS**
 | ID     | Name       | Email                   |
